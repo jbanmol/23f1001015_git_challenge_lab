@@ -1,6 +1,6 @@
 # 23f1001015_git_challenge_lab
 
-This project is a simple of the IIT Madras BS DE Git/GitHub Challenge Lab.
+This project is a simple of the IIT Madras BS Git/GitHub Challenge Lab.
 
 ## Features
 
